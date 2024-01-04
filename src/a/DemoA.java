@@ -9,7 +9,7 @@ public class DemoA {
 		System.out.println(a+b);
 	}
 	//coming from gitHub
-	public static void add(int a, int b) {
+	public static void divid(int a, int b) {
 		System.out.println(a/b);
 }
 }
