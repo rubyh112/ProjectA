@@ -5,5 +5,8 @@ public class DemoA {
 		System.out.println("i need more vacation time");
 		System.out.println("batch 11");
 	}
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
 
 }
